@@ -1,0 +1,6 @@
+framework module Pods_Hard_Work__ {
+  umbrella header "Pods-Hard_Work🥵🥵-umbrella.h"
+
+  export *
+  module * { export * }
+}
